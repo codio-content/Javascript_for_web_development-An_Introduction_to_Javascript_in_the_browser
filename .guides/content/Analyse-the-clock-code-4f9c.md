@@ -33,4 +33,4 @@ In JS you modify or replace the "inside" of an element by assigning the content 
 
 And voilà ! We have a function that takes the current time, formats it nicely and puts it inside our `clock` div!
 
-Well it’s all nice and it displays the time but it’s not updating, it’s just runs once at the beginning. Now, we have to use out `setInterval` function to call our `set_time` function every second.
+Well it’s all nice and it displays the time but it’s not updating, it’s just runs once at the beginning. Now, we have to use our `setInterval` function to call our `set_time` function every second.
