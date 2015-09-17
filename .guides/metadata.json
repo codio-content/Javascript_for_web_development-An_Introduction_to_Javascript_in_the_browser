@@ -276,7 +276,7 @@
   },
   {
    "id": "4f9cfe87-5de8-fb6-9e0a-a89ed35eb4c7",
-   "title": "Analyse the code",
+   "title": "Analyse the clock code",
    "files": [
     {
      "path": "#tabs",
@@ -298,7 +298,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Analyse-the-code-4f9c.md",
+   "content-file": ".guides/content/Analyse-the-clock-code-4f9c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -381,7 +381,12 @@
   {
    "id": "46fc7ec5-6a2d-1036-d86a-fe01a5f72003",
    "title": "That's all folks!",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",

@@ -1,8 +1,8 @@
 Before continuing on our JS adventures we need to learn a very useful function : `console.log`.
 
-Do you remember the "console" we saw in the Chrome developer tools unit ?
+Do you remember the "console" we saw in the Chrome developer tools unit ? (If not, you might want to redo this unit [here](https://codio.com/home/modules/55e8297420efa43e63fb9d4c/units/55e829bf80f8e32518cc9d5e/).)
 
-This is how you can print to the console. It can be very useful to print the values of variables or anything you would like from your JS code.
+The `console.log` function is how you can print to this web console. It can be very useful to print the values of variables or anything you would like from your JS code.
 
 Here is an example of usage :
 

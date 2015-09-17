@@ -1,4 +1,4 @@
-Let's try to use the debugger now. In the file `example.html` in the left hand pane, you can see that we put a `debugger` statement on line 31.
+Let's try to use the debugger now. In the file `example.html` in the left hand pane, you can see that we put a `debugger` statement on line 27.
 
 Now you can <a href="debugger/example.html" target="_blank">click here</a> to open this example in another browser tab. When the page is loaded, open the developer tools and then reload the page.
 

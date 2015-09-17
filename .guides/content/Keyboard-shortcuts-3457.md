@@ -2,7 +2,7 @@
 
 ### Reminder
 
-The shortcut to open the developer's console are:
+The keyboard shortcuts to open the developer's console are:
 
 In Chrome: 
 - <kbd class="light">Cmd</kbd> + <kbd class="light">Opt</kbd> + <kbd class="light">J</kbd> (on mac)
