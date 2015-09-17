@@ -306,7 +306,23 @@
   {
    "id": "e00a8f8-e833-ba61-db8f-a4b853779473",
    "title": "Refresh our clock",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "clock/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: clock/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Refresh-our-clock-e00a.md",
