@@ -1,0 +1,397 @@
+{
+ "sections": [
+  {
+   "id": "78eb71d4-25c-4ad9-7fe4-608fbaa151be",
+   "title": "Introduction",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-78eb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "278f2a2d-7838-3aa-301f-28545955ab9e",
+   "title": "Script tags",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "script-tags"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Script-tags-278f.md",
+   "chapter": true,
+   "reset": [
+    "script-tags"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "e06a73c1-c0ab-ab52-3e3d-9b58e0ef2b6e",
+   "title": "Your first script",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "script-tags/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: script-tags/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [
+    "script-tags"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-first-script-e06a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b5e7717d-23c1-4227-2098-a3831d4184ea",
+   "title": "External script file",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/External-script-file-b5e7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f4c4d26e-c29a-f410-7469-fe43b2d0fb53",
+   "title": "Writing to the console",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "console-log/example.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: console-log/example.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [
+    "console-log"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Writing-to-the-console-f4c4.md",
+   "chapter": true,
+   "reset": [
+    "console-log"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "34577216-17da-fb0f-101-f98035464cb8",
+   "title": "Keyboard shortcuts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Keyboard-shortcuts-3457.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4799b395-fbb8-aa77-e62-29022ed14f16",
+   "title": "Debugging JS code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "debugger"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Debugging-JS-code-4799.md",
+   "chapter": true,
+   "reset": [
+    "debugger"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "c94b2280-a61-52c-43c3-71367bd865f5",
+   "title": "Adding breakpoints",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Adding-breakpoints-c94b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "761173e6-d14f-a9d4-2aad-d30fd62f1c42",
+   "title": "Inside the debugger",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inside-the-debugger-7611.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8a5e48a0-1ad1-bfc9-65be-e067b23fece",
+   "title": "Open the debugger",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "debugger/example.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "debugger"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Open-the-debugger-8a5e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "34f8c770-60b2-6f5a-8f46-d2b6759ef7dc",
+   "title": "Debugger challenge",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Debugger-challenge-34f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a16237a3-a670-336e-5b0e-22a83192b56",
+   "title": "Clock example",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "clock/index-console.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: clock/index-console.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [
+    "clock"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Clock-example-a162.md",
+   "chapter": true,
+   "reset": [
+    "clock"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "3f951063-2e08-fbf2-7aa5-163670f2ba18",
+   "title": "Change the clock",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Change-the-clock-3f95.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "281ff7db-6d23-bb3a-6cf2-2f7efa1d7386",
+   "title": "Finishing the clock",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "clock/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: clock/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Finishing-the-clock-281f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4f9cfe87-5de8-fb6-9e0a-a89ed35eb4c7",
+   "title": "Analyse the code",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "clock/index.html",
+     "panel": 0,
+     "ref": "<script>",
+     "lineCount": 22,
+     "action": "open"
+    },
+    {
+     "path": "#preview: clock/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Analyse-the-code-4f9c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e00a8f8-e833-ba61-db8f-a4b853779473",
+   "title": "Refresh our clock",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Refresh-our-clock-e00a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "74a54700-a217-36a-a024-a868f8be3f8",
+   "title": "Document ready",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "document-ready/example1.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: document-ready/example1.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "document-ready"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Document-ready-74a5.md",
+   "chapter": true,
+   "reset": [
+    "document-ready"
+   ],
+   "teacherOnly": false
+  },
+  {
+   "id": "39abb308-2d4d-b657-2fd8-d0fa34958f84",
+   "title": "How can we know for sure ?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-can-we-know-for-sure---39ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "940238f7-2cda-f158-d026-16b992c2219c",
+   "title": "window.load vs domcontentloaded",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/window-load-vs-domcontentloaded-9402.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6eb690a2-9011-b518-87f2-c7ce53ea4184",
+   "title": "Fix our script",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-our-script-6eb6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "46fc7ec5-6a2d-1036-d86a-fe01a5f72003",
+   "title": "That's all folks!",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks--46fc.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

@@ -1,0 +1,52 @@
+{Check It!|assessment}(test-489460230)
+
+|||guidance
+
+Solution :
+
+```html
+<!doctype html>
+<html>
+<head>
+  <title>Digital clock example</title>
+  <link rel="stylesheet" href="../clock/clock.css">
+</head>
+<body>
+  
+  <script>
+    
+    function zero_pad(num) {
+      if (!num) { return "00"}
+      else if (num<10) { return "0"+num }
+      else { return num }
+    }  
+    
+    function set_time() {      
+      var clock_div = document.getElementById("clock")
+
+      var current_date = new Date(); 
+      var hours = zero_pad(current_date.getHours())
+      var minutes = zero_pad(current_date.getMinutes())
+      var seconds = zero_pad(current_date.getSeconds())
+
+      var date_clock =  hours + ":" + minutes + ":" + seconds
+      
+      clock_div.innerHTML = date_clock;
+    }
+
+
+    document.addEventListener("DOMContentLoaded", function() {
+      set_time();
+    });
+    
+  </script>
+  
+  <div id="clock">
+    00:00:00
+  </div>
+  
+</body>
+</html>
+```
+
+|||

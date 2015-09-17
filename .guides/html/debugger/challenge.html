@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <title>Debugger example</title>
+  <link rel="stylesheet" href="/.guides/keys.css">
+</head>
+<body>
+  
+  <h2>If you don't see the Debugger : </h2>
+  
+  You should open the debugger yourself. You can use the keyboard shorcuts:
+  
+  <ul class="shortcuts">
+    <li><b>Chrome (Mac)</b> : <kbd class="light">Cmd</kbd> + <kbd class="light">Opt</kbd> + <kbd class="light">I</kbd> </li>
+    <li><b>Chrome (Win) </b> : <kbd class="light">Ctrl</kbd> + <kbd class="light">Shift</kbd> + <kbd class="light">I</kbd> </li>
+    <li><b>Firefox (Mac) </b> : <kbd class="light">Cmd</kbd> + <kbd class="light">Opt</kbd> + <kbd class="light">S</kbd> </li>
+    <li><b>Firefox (Win) </b> : <kbd class="light">Ctrl</kbd> + <kbd class="light">Shift</kbd> + <kbd class="light">S</kbd> </li>
+  </ul>
+  
+  Once you have opened the debugger, reload the page.
+  
+  <script src="ccode.js"></script>
+  <script>
+    
+    var my_function_to_debug = function(){
+      var myobj = {};
+      var a = 10
+      var b = 20
+      var c = a + b
+      
+      my_init(myobj)
+      debugger
+    }
+    
+    my_function_to_debug()
+    
+  </script>
+</body>
+</html>
