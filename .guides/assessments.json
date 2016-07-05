@@ -1,0 +1,91 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2399820996",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [
+     "42",
+     "AWESOME"
+    ],
+    "text": [
+     "- Value of the variable `myobj.X` : ",
+     0,
+     "\n- Value of the variable `myobj.CODIO`: ",
+     0
+    ]
+   },
+   "name": "Debugger challenge",
+   "instructions": "In order to verify that you can use the debugger, we ask you to click on [this link](/.guides/html/debugger/challenge.html) to open the challenge in another tab. After opening it, open the developers tools and then reload the page. It will pause the program somewhere thanks to a `debugger` instruction we set. \n\nYou are asked to have a look at the Scope (or Variable) panel in the debugger to find the value of two variables owned by the `myobj` object. You can click on the `myobj` in the variable list and it will show its content. Once you have found the values of `myobj.X` and `myObj.CODIO` you can write them in the textboxes below.",
+   "points": 5,
+   "showValues": false,
+   "text": "- Value of the variable `myobj.X` : <<<42>>>\n- Value of the variable `myobj.CODIO`: <<<AWESOME>>>"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1472427180",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Your first script",
+   "instructions": "Let's create our first JS script!\n\nIn the page `index.html` in the top left hand pane, add `<script> </script>` tags at the end of the `body`.\nInside the tags, add the following JS code : `alert('Hello World!')`.\nThen refresh the preview in the bottom left hand pane and see the result!\n\nGood luck!",
+   "command": "bash .guides/tests/exec.sh .guides/tests/your-first-script.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-2602509092",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Use setInterval to refresh our clock every second",
+   "instructions": "In the file `index.html` in the top left hand pane, you are asked to replace the call to `set_time` on line 33 by a call to `setInterval` which will call the `set_time` function every 1000 milliseconds.\n\nAs a reminder, here is the syntax of the `setInterval` function :\n\n```javascript\nsetInterval( <function_to_call> , <interval_between_calls> )\n```\nWhere `<function_to_call>` is to be replaced by the name of the function to call and `<interval_between_calls>` is to be replaced by the interval between the calls (in milliseconds).\n\nGood luck!\n\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/clock-set-interval.js",
+   "points": 5
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3532816022",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Change the interval time",
+   "instructions": "In the file `index.html` in the top left hand pane : \n- Change the interval time of  the call to the `setInterval` on line 13 to `100`. \n- Refresh the bottom left hand pane and see how it will write 'hi!' in the console much faster, every 100 milliseconds.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/change-interval.js",
+   "points": 3
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-489460230",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Use the DOMContentLoaded event",
+   "instructions": "You are asked to fix our clock ! \n\n In the file `example1.html` in the left hand pane you have to wrap the `set_time` call in a `DOMContentLoaded` event handler as shown in the previous section.\n\nVerify that the time is set correctly in the bottom left hand preview pane.\n\nGood luck!\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/dom-cle.js",
+   "points": 3
+  }
+ }
+]
