@@ -8,7 +8,7 @@
    "tokens": {
     "blank": [
      "42",
-     "AWESOME"
+     "\"AWESOME\""
     ],
     "text": [
      "- Value of the variable `myobj.X` : ",
