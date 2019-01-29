@@ -5,6 +5,6 @@
 Solution :
 
 - Value of the variable "X" : 42 
-- Value of the variable "CODIO" : AWESOME
+- Value of the variable "CODIO" : "AWESOME"
 
 |||
