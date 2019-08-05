@@ -1,0 +1,143 @@
+{
+ "name": "Javascript_for_web_development-An_Introduction_to_Javascript_in_the_browser",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "78eb71d4-25c-4ad9-7fe4-608fbaa151be",
+   "pageId": "78eb71d4-25c-4ad9-7fe4-608fbaa151be",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Script tags",
+   "id": "278f2a2d-7838-3aa-301f-28545955ab9e",
+   "pageId": "278f2a2d-7838-3aa-301f-28545955ab9e",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Your first script",
+     "id": "e06a73c1-c0ab-ab52-3e3d-9b58e0ef2b6e",
+     "pageId": "e06a73c1-c0ab-ab52-3e3d-9b58e0ef2b6e",
+     "type": "page"
+    },
+    {
+     "title": "External script file",
+     "id": "b5e7717d-23c1-4227-2098-a3831d4184ea",
+     "pageId": "b5e7717d-23c1-4227-2098-a3831d4184ea",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Writing to the console",
+   "id": "f4c4d26e-c29a-f410-7469-fe43b2d0fb53",
+   "pageId": "f4c4d26e-c29a-f410-7469-fe43b2d0fb53",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Keyboard shortcuts",
+     "id": "34577216-17da-fb0f-101-f98035464cb8",
+     "pageId": "34577216-17da-fb0f-101-f98035464cb8",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Debugging JS code",
+   "id": "4799b395-fbb8-aa77-e62-29022ed14f16",
+   "pageId": "4799b395-fbb8-aa77-e62-29022ed14f16",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Adding breakpoints",
+     "id": "c94b2280-a61-52c-43c3-71367bd865f5",
+     "pageId": "c94b2280-a61-52c-43c3-71367bd865f5",
+     "type": "page"
+    },
+    {
+     "title": "Inside the debugger",
+     "id": "761173e6-d14f-a9d4-2aad-d30fd62f1c42",
+     "pageId": "761173e6-d14f-a9d4-2aad-d30fd62f1c42",
+     "type": "page"
+    },
+    {
+     "title": "Open the debugger",
+     "id": "8a5e48a0-1ad1-bfc9-65be-e067b23fece",
+     "pageId": "8a5e48a0-1ad1-bfc9-65be-e067b23fece",
+     "type": "page"
+    },
+    {
+     "title": "Debugger challenge",
+     "id": "34f8c770-60b2-6f5a-8f46-d2b6759ef7dc",
+     "pageId": "34f8c770-60b2-6f5a-8f46-d2b6759ef7dc",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Clock example",
+   "id": "a16237a3-a670-336e-5b0e-22a83192b56",
+   "pageId": "a16237a3-a670-336e-5b0e-22a83192b56",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Change the clock",
+     "id": "3f951063-2e08-fbf2-7aa5-163670f2ba18",
+     "pageId": "3f951063-2e08-fbf2-7aa5-163670f2ba18",
+     "type": "page"
+    },
+    {
+     "title": "Finishing the clock",
+     "id": "281ff7db-6d23-bb3a-6cf2-2f7efa1d7386",
+     "pageId": "281ff7db-6d23-bb3a-6cf2-2f7efa1d7386",
+     "type": "page"
+    },
+    {
+     "title": "Analyse the clock code",
+     "id": "4f9cfe87-5de8-fb6-9e0a-a89ed35eb4c7",
+     "pageId": "4f9cfe87-5de8-fb6-9e0a-a89ed35eb4c7",
+     "type": "page"
+    },
+    {
+     "title": "Refresh our clock",
+     "id": "e00a8f8-e833-ba61-db8f-a4b853779473",
+     "pageId": "e00a8f8-e833-ba61-db8f-a4b853779473",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Document ready",
+   "id": "74a54700-a217-36a-a024-a868f8be3f8",
+   "pageId": "74a54700-a217-36a-a024-a868f8be3f8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "How can we know for sure ?",
+     "id": "39abb308-2d4d-b657-2fd8-d0fa34958f84",
+     "pageId": "39abb308-2d4d-b657-2fd8-d0fa34958f84",
+     "type": "page"
+    },
+    {
+     "title": "window.load vs domcontentloaded",
+     "id": "940238f7-2cda-f158-d026-16b992c2219c",
+     "pageId": "940238f7-2cda-f158-d026-16b992c2219c",
+     "type": "page"
+    },
+    {
+     "title": "Fix our script",
+     "id": "6eb690a2-9011-b518-87f2-c7ce53ea4184",
+     "pageId": "6eb690a2-9011-b518-87f2-c7ce53ea4184",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "That's all folks!",
+   "id": "46fc7ec5-6a2d-1036-d86a-fe01a5f72003",
+   "pageId": "46fc7ec5-6a2d-1036-d86a-fe01a5f72003",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
